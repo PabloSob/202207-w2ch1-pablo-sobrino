@@ -1,0 +1,19 @@
+{
+  "name": "w2c1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "husky": "^8.0.1",
+    "sass": "^1.53.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
