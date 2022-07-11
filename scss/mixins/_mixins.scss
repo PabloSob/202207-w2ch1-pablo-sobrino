@@ -1,1 +1,5 @@
-@use "../scss/variables/colors";
+@use "../variables/colors";
+
+@mixin primary-button() {
+  color: red;
+}

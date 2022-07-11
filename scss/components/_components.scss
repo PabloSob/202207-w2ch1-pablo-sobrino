@@ -1,0 +1,5 @@
+@use "../mixins/_mixins";
+
+.card {
+  @include primary-button();
+}
